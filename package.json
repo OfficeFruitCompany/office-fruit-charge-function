@@ -1,0 +1,7 @@
+{
+  "name": "office-fruit-charge-function",
+  "version": "1.0.0",
+  "dependencies": {
+    "stripe": "^11.0.0"
+  }
+}
